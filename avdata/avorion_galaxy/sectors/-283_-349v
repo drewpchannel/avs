@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<view numCrafts="11" numWrecks="0" numAsteroids="1598" numStations="5" influence="47.5849991" factionIndex="2001187">
+<view numCrafts="11" numWrecks="0" numAsteroids="1596" numStations="5" influence="47.5849991" factionIndex="2001187">
 	<coordinates x="-283" y="-349"/>
 	<titles>
 		<title str="Shipyard"/>
-		<title str="Equipment Dock"/>
 		<title str="Repair Dock"/>
+		<title str="Equipment Dock"/>
 		<title str="Resource Depot"/>
 		<title str="${good} Factory ${size}">
 			<arg key="good">Laser Head</arg>
@@ -19,7 +19,7 @@
 	</wormholes>
 	<shipNumbers>
 		<ships n="1" faction="1"/>
+		<ships n="1" faction="5"/>
 		<ships n="9" faction="2001187"/>
-		<ships n="1" faction="2001525"/>
 	</shipNumbers>
 </view>

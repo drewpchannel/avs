@@ -1,0 +1,110 @@
+Fri Feb 17 17:26:58 2017| Enabled Traces: 
+Fri Feb 17 17:26:58 2017| Avorion server 0x196be48 running on Ubuntu 16.04.2 LTS starting up in "/home/somethingiffy/avoriontest/avdata/avorion_galaxy"
+Fri Feb 17 17:26:58 2017| CPU: Intel(R) Xeon(R) CPU E31270 @ 3.40GHz 8 Cores
+Fri Feb 17 17:26:58 2017| name: Drow Pizza Test
+Fri Feb 17 17:26:58 2017| seed: K874gdevB2
+Fri Feb 17 17:26:58 2017| port: 28000
+Fri Feb 17 17:26:58 2017| max online players: 22
+Fri Feb 17 17:26:58 2017| save interval: 600
+Fri Feb 17 17:26:58 2017| broadcast interval: 5
+Fri Feb 17 17:26:58 2017| max loaded sector time: 300
+Fri Feb 17 17:26:58 2017| weak update: yes
+Fri Feb 17 17:26:58 2017| worker threads: 1
+Fri Feb 17 17:26:58 2017| generator threads: 2
+Fri Feb 17 17:26:58 2017| difficulty: Insane
+Fri Feb 17 17:26:58 2017| infiniteResources: no
+Fri Feb 17 17:26:58 2017| collision: 0.1
+Fri Feb 17 17:26:58 2017| access list: Blacklist
+Fri Feb 17 17:26:58 2017| public: yes
+Fri Feb 17 17:26:58 2017| authentication: yes
+Fri Feb 17 17:26:58 2017| listed: no
+Fri Feb 17 17:26:58 2017| steam networking: yes
+Fri Feb 17 17:26:58 2017| administrators: 'somethingiffy' 
+Fri Feb 17 17:26:58 2017| Initializing sector database...
+Fri Feb 17 17:26:58 2017| Initializing faction database...
+Fri Feb 17 17:26:58 2017| Starting up 1 worker threads...
+Fri Feb 17 17:26:58 2017| Loading jumping entities... 
+Fri Feb 17 17:26:58 2017| no file "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/jumps.dat" found
+Fri Feb 17 17:26:58 2017| Galaxy initialized.
+Fri Feb 17 17:26:58 2017| Listed server version: 0.10.4.7565
+Fri Feb 17 17:26:58 2017| Server UDP: Socket send to localhost:12345 failed. Error: resolve: Host not found (authoritative)
+Fri Feb 17 17:26:58 2017| Game Port: 27000
+Fri Feb 17 17:26:58 2017| Steam Port: 27021
+Fri Feb 17 17:26:58 2017| Steam Query Port: 27020
+Fri Feb 17 17:26:58 2017| Query Port: 27003
+Fri Feb 17 17:26:58 2017| 
+Fri Feb 17 17:26:59 2017| Server connected to Steam successfully
+Fri Feb 17 17:26:59 2017| Server is VAC Secure!
+Fri Feb 17 17:26:59 2017| Game Server Steam ID: 90106952083875843
+Fri Feb 17 17:27:08 2017| OnP2PSessionRequest from 76561198367024529
+Fri Feb 17 17:27:12 2017| Steam authentication confirmed for 76561198367024529
+Fri Feb 17 17:27:12 2017| Authentication successful for 76561198367024529
+Fri Feb 17 17:27:12 2017| Connection to player established
+Fri Feb 17 17:27:12 2017| Connection accepted from 107.18.60.153:0
+Fri Feb 17 17:27:14 2017| <Server> Player a nice guy joined the galaxy
+Fri Feb 17 17:27:14 2017| Player logged in: a nice guy, index: 1
+Fri Feb 17 17:27:15 2017| scheduled save for sector (-283:-349), 0x7ffa580008c0, entities: 1741
+Fri Feb 17 17:27:15 2017| saving sector (-283:-349)
+Fri Feb 17 17:27:15 2017| player events roughly every 11.92 minutes
+Fri Feb 17 17:27:15 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 17:27:15 2017| scheduled save for sector (-283:-349), 0x7ffa580008c0, entities: 1741
+Fri Feb 17 17:27:15 2017| saving sector (-283:-349)
+Fri Feb 17 17:27:15 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 17:27:15 2017| Player a nice guy moved to sector (-283:-349) server time taken for change: 696ms
+Fri Feb 17 17:27:16 2017| scheduled save for sector (-287:-353), 0x7ffa3c0008c0, entities: 1289
+Fri Feb 17 17:27:16 2017| saving sector (-287:-353)
+Fri Feb 17 17:27:16 2017| scheduled save for sector (-281:-339), 0x7ffa5853e5b0, entities: 896
+Fri Feb 17 17:27:16 2017| sector (-287:-353) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-287_-353"
+Fri Feb 17 17:27:16 2017| saving sector (-281:-339)
+Fri Feb 17 17:27:17 2017| sector (-281:-339) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-281_-339"
+Fri Feb 17 17:27:56 2017| Received an invoke script message for an entity that does not exist: 1833
+Fri Feb 17 17:27:56 2017| Received an invoke script message for an entity that does not exist: 1838
+Fri Feb 17 17:27:56 2017| Received an invoke script message for an entity that does not exist: 1893
+Fri Feb 17 17:28:37 2017| <Server> Player a nice guy left the galaxy
+Fri Feb 17 17:28:37 2017| Player logged off: a nice guy, index: 1: 
+Fri Feb 17 17:28:37 2017| Ending authentication session of 76561198367024529
+Fri Feb 17 17:33:37 2017| scheduled save for sector (-287:-353), 0x7ffa3c0008c0, entities: 1282
+Fri Feb 17 17:33:37 2017| saving sector (-287:-353)
+Fri Feb 17 17:33:37 2017| scheduled save for sector (-283:-349), 0x7ffa580008c0, entities: 1722
+Fri Feb 17 17:33:37 2017| sector (-287:-353) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-287_-353"
+Fri Feb 17 17:33:37 2017| saving sector (-283:-349)
+Fri Feb 17 17:33:37 2017| scheduled save for sector (-281:-339), 0x7ffa5853e5b0, entities: 881
+Fri Feb 17 17:33:37 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 17:33:37 2017| saving sector (-281:-339)
+Fri Feb 17 17:33:37 2017| sector (-281:-339) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-281_-339"
+Fri Feb 17 17:36:58 2017| Triggered saving of all server data.
+Fri Feb 17 17:46:58 2017| Triggered saving of all server data.
+Fri Feb 17 17:56:58 2017| Triggered saving of all server data.
+Fri Feb 17 18:04:55 2017| OnP2PSessionRequest from 76561198279679854
+Fri Feb 17 18:04:59 2017| Steam authentication confirmed for 76561198279679854
+Fri Feb 17 18:04:59 2017| Authentication successful for 76561198279679854
+Fri Feb 17 18:04:59 2017| Connection to player established
+Fri Feb 17 18:04:59 2017| Connection accepted from 107.18.60.153:0
+Fri Feb 17 18:05:00 2017| New Player registered: 76561198279679854 [SKULL FUCK DEAD SANDY HOOK KIDS] index: 5
+Fri Feb 17 18:05:00 2017| <Server> Player SKULL FUCK DEAD SANDY HOOK KIDS created!
+Fri Feb 17 18:05:00 2017| <Server> Player SKULL FUCK DEAD SANDY HOOK KIDS joined the galaxy
+Fri Feb 17 18:05:00 2017| Player logged in: SKULL FUCK DEAD SANDY HOOK KIDS, index: 5
+Fri Feb 17 18:05:01 2017| scheduled save for sector (-283:-349), 0x7ffa3fc56510, entities: 1722
+Fri Feb 17 18:05:01 2017| saving sector (-283:-349)
+Fri Feb 17 18:05:01 2017| player events roughly every 12.68 minutes
+Fri Feb 17 18:05:01 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 18:05:01 2017| scheduled save for sector (-283:-349), 0x7ffa3fc56510, entities: 1722
+Fri Feb 17 18:05:01 2017| saving sector (-283:-349)
+Fri Feb 17 18:05:01 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 18:05:02 2017| Player SKULL FUCK DEAD SANDY HOOK KIDS moved to sector (-283:-349) server time taken for change: 736ms
+Fri Feb 17 18:05:02 2017| scheduled save for sector (-287:-353), 0x7ffa4c78e3d0, entities: 1282
+Fri Feb 17 18:05:02 2017| saving sector (-287:-353)
+Fri Feb 17 18:05:02 2017| scheduled save for sector (-281:-339), 0x7ffa3c450ad0, entities: 881
+Fri Feb 17 18:05:02 2017| sector (-287:-353) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-287_-353"
+Fri Feb 17 18:05:02 2017| saving sector (-281:-339)
+Fri Feb 17 18:05:03 2017| sector (-281:-339) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-281_-339"
+Fri Feb 17 18:06:58 2017| Triggered saving of all server data.
+Fri Feb 17 18:06:58 2017| scheduled save for sector (-287:-353), 0x7ffa4c78e3d0, entities: 1282
+Fri Feb 17 18:06:58 2017| saving sector (-287:-353)
+Fri Feb 17 18:06:58 2017| sector (-287:-353) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-287_-353"
+Fri Feb 17 18:06:58 2017| scheduled save for sector (-283:-349), 0x7ffa3fc56510, entities: 1715
+Fri Feb 17 18:06:58 2017| saving sector (-283:-349)
+Fri Feb 17 18:06:59 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 18:06:59 2017| scheduled save for sector (-281:-339), 0x7ffa3c450ad0, entities: 881
+Fri Feb 17 18:06:59 2017| saving sector (-281:-339)
+Fri Feb 17 18:06:59 2017| 

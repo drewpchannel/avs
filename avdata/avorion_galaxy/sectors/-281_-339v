@@ -2,12 +2,6 @@
 <view numCrafts="9" numWrecks="0" numAsteroids="517" numStations="10" influence="95.1699905" factionIndex="2001525">
 	<coordinates x="-281" y="-339"/>
 	<titles>
-		<title str="${good} Manufacturer ${size}">
-			<arg key="prefix">Semi Conductor /* prefix */</arg>
-			<arg key="plural">Semi Conductors</arg>
-			<arg key="good">Semi Conductor</arg>
-			<arg key="size">M</arg>
-		</title>
 		<title str="${good} Ranch ${size}">
 			<arg key="good">Sheep</arg>
 			<arg key="size">S</arg>
@@ -30,6 +24,12 @@
 			<arg key="size">S</arg>
 			<arg key="prefix">Aluminium /* prefix */</arg>
 			<arg key="good">Aluminium</arg>
+		</title>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="prefix">Semi Conductor /* prefix */</arg>
+			<arg key="plural">Semi Conductors</arg>
+			<arg key="good">Semi Conductor</arg>
+			<arg key="size">M</arg>
 		</title>
 		<title str="Resource Depot"/>
 	</titles>

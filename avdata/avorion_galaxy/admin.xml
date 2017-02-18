@@ -3,11 +3,13 @@
 	<administration>
 		<defaultAuthorizationGroup>
 			<commands>
+				<command name="crew"/>
 				<command name="help"/>
 				<command name="players"/>
 				<command name="seed"/>
 				<command name="sethome"/>
 				<command name="suicide"/>
+				<command name="test"/>
 				<command name="version"/>
 				<command name="w"/>
 				<command name="whisper"/>
