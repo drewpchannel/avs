@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view numCrafts="9" numWrecks="0" numAsteroids="517" numStations="10" influence="95.1699905" factionIndex="2001525">
+	<coordinates x="-281" y="-339"/>
+	<titles>
+		<title str="${good} Manufacturer ${size}">
+			<arg key="prefix">Semi Conductor /* prefix */</arg>
+			<arg key="plural">Semi Conductors</arg>
+			<arg key="good">Semi Conductor</arg>
+			<arg key="size">M</arg>
+		</title>
+		<title str="${good} Ranch ${size}">
+			<arg key="good">Sheep</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Sheep /* prefix */</arg>
+			<arg key="plural">Sheep</arg>
+		</title>
+		<title str="Habitat"/>
+		<title str="Military Outpost"/>
+		<title str="Shipyard"/>
+		<title str="Repair Dock"/>
+		<title str="Equipment Dock"/>
+		<title str="Gas Collector ${size}">
+			<arg key="plural">Helium</arg>
+			<arg key="good">Helium</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Helium /* prefix */</arg>
+		</title>
+		<title str="${good} Mine ${size}">
+			<arg key="plural">Aluminium</arg>
+			<arg key="size">S</arg>
+			<arg key="prefix">Aluminium /* prefix */</arg>
+			<arg key="good">Aluminium</arg>
+		</title>
+		<title str="Resource Depot"/>
+	</titles>
+	<wormholes>
+		<coordinates x="-283" y="-349"/>
+		<coordinates x="-273" y="-335"/>
+		<coordinates x="-281" y="-328"/>
+	</wormholes>
+	<shipNumbers>
+		<ships n="9" faction="2001525"/>
+	</shipNumbers>
+</view>

@@ -6,6 +6,7 @@
 				<command name="help"/>
 				<command name="players"/>
 				<command name="seed"/>
+				<command name="sethome"/>
 				<command name="suicide"/>
 				<command name="version"/>
 				<command name="w"/>

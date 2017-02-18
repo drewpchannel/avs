@@ -1,0 +1,83 @@
+Fri Feb 17 16:37:45 2017| Enabled Traces: 
+Fri Feb 17 16:37:45 2017| Avorion server 0x2696e48 running on Ubuntu 16.04.2 LTS starting up in "/home/somethingiffy/avoriontest/avdata/avorion_galaxy"
+Fri Feb 17 16:37:45 2017| CPU: Intel(R) Xeon(R) CPU E31270 @ 3.40GHz 8 Cores
+Fri Feb 17 16:37:45 2017| name: Drow Pizza Test
+Fri Feb 17 16:37:45 2017| seed: K874gdevB2
+Fri Feb 17 16:37:45 2017| port: 28000
+Fri Feb 17 16:37:45 2017| max online players: 22
+Fri Feb 17 16:37:45 2017| save interval: 600
+Fri Feb 17 16:37:45 2017| broadcast interval: 5
+Fri Feb 17 16:37:45 2017| max loaded sector time: 300
+Fri Feb 17 16:37:45 2017| weak update: yes
+Fri Feb 17 16:37:45 2017| worker threads: 1
+Fri Feb 17 16:37:45 2017| generator threads: 2
+Fri Feb 17 16:37:45 2017| difficulty: Insane
+Fri Feb 17 16:37:45 2017| infiniteResources: no
+Fri Feb 17 16:37:45 2017| collision: 0.1
+Fri Feb 17 16:37:45 2017| access list: Blacklist
+Fri Feb 17 16:37:45 2017| public: yes
+Fri Feb 17 16:37:45 2017| authentication: yes
+Fri Feb 17 16:37:45 2017| listed: no
+Fri Feb 17 16:37:45 2017| steam networking: yes
+Fri Feb 17 16:37:45 2017| administrators: 'somethingiffy' 
+Fri Feb 17 16:37:45 2017| Initializing sector database...
+Fri Feb 17 16:37:45 2017| Initializing faction database...
+Fri Feb 17 16:37:45 2017| Starting up 1 worker threads...
+Fri Feb 17 16:37:45 2017| Loading jumping entities... 
+Fri Feb 17 16:37:45 2017| no file "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/jumps.dat" found
+Fri Feb 17 16:37:45 2017| Galaxy initialized.
+Fri Feb 17 16:37:45 2017| Listed server version: 0.10.4.7565
+Fri Feb 17 16:37:45 2017| Server UDP: Socket send to localhost:12345 failed. Error: resolve: Host not found (authoritative)
+Fri Feb 17 16:37:45 2017| Game Port: 27000
+Fri Feb 17 16:37:45 2017| Steam Port: 27021
+Fri Feb 17 16:37:45 2017| Steam Query Port: 27020
+Fri Feb 17 16:37:45 2017| Query Port: 27003
+Fri Feb 17 16:37:45 2017| 
+Fri Feb 17 16:37:46 2017| Server connected to Steam successfully
+Fri Feb 17 16:37:46 2017| Server is VAC Secure!
+Fri Feb 17 16:37:46 2017| Game Server Steam ID: 90106951580917763
+Fri Feb 17 16:37:51 2017| OnP2PSessionRequest from 76561198367024529
+Fri Feb 17 16:37:57 2017| Steam authentication confirmed for 76561198367024529
+Fri Feb 17 16:37:57 2017| Authentication successful for 76561198367024529
+Fri Feb 17 16:37:57 2017| Connection to player established
+Fri Feb 17 16:37:57 2017| Connection accepted from 107.18.60.153:0
+Fri Feb 17 16:37:58 2017| <Server> Player a nice guy joined the galaxy
+Fri Feb 17 16:37:58 2017| Player logged in: a nice guy, index: 1
+Fri Feb 17 16:37:59 2017| scheduled save for sector (-283:-349), 0x7fa6a80008c0, entities: 1713
+Fri Feb 17 16:37:59 2017| saving sector (-283:-349)
+Fri Feb 17 16:37:59 2017| player events roughly every 12.25 minutes
+Fri Feb 17 16:37:59 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 16:37:59 2017| scheduled save for sector (-283:-349), 0x7fa6a80008c0, entities: 1713
+Fri Feb 17 16:37:59 2017| saving sector (-283:-349)
+Fri Feb 17 16:37:59 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 16:38:00 2017| Player a nice guy moved to sector (-283:-349) server time taken for change: 784ms
+Fri Feb 17 16:38:00 2017| scheduled save for sector (-287:-353), 0x7fa69c0008c0, entities: 1289
+Fri Feb 17 16:38:00 2017| saving sector (-287:-353)
+Fri Feb 17 16:38:00 2017| scheduled save for sector (-281:-339), 0x7fa6a85c5d80, entities: 887
+Fri Feb 17 16:38:01 2017| sector (-287:-353) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-287_-353"
+Fri Feb 17 16:38:01 2017| saving sector (-281:-339)
+Fri Feb 17 16:38:01 2017| sector (-281:-339) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-281_-339"
+Fri Feb 17 16:38:27 2017| Received an invoke script message for an entity that does not exist: 1742
+Fri Feb 17 16:47:45 2017| Triggered saving of all server data.
+Fri Feb 17 16:47:45 2017| scheduled save for sector (-287:-353), 0x7fa69c0008c0, entities: 1283
+Fri Feb 17 16:47:45 2017| saving sector (-287:-353)
+Fri Feb 17 16:47:46 2017| sector (-287:-353) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-287_-353"
+Fri Feb 17 16:47:46 2017| scheduled save for sector (-283:-349), 0x7fa6a80008c0, entities: 1718
+Fri Feb 17 16:47:46 2017| saving sector (-283:-349)
+Fri Feb 17 16:47:46 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 16:47:46 2017| scheduled save for sector (-281:-339), 0x7fa6a85c5d80, entities: 883
+Fri Feb 17 16:47:46 2017| saving sector (-281:-339)
+Fri Feb 17 16:47:46 2017| sector (-281:-339) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-281_-339"
+Fri Feb 17 16:48:19 2017| <> You have no sector selected.
+Fri Feb 17 16:52:01 2017| Player's playtime is below 30 minutes (1136s), cancelling pirate attack.
+Fri Feb 17 16:57:03 2017| starting event spawntravellingmerchant
+Fri Feb 17 16:57:45 2017| Triggered saving of all server data.
+Fri Feb 17 16:57:45 2017| scheduled save for sector (-287:-353), 0x7fa69c0008c0, entities: 1282
+Fri Feb 17 16:57:45 2017| saving sector (-287:-353)
+Fri Feb 17 16:57:46 2017| sector (-287:-353) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-287_-353"
+Fri Feb 17 16:57:46 2017| scheduled save for sector (-283:-349), 0x7fa6a80008c0, entities: 1716
+Fri Feb 17 16:57:46 2017| saving sector (-283:-349)
+Fri Feb 17 16:57:46 2017| sector (-283:-349) saved to "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/sectors/-283_-349"
+Fri Feb 17 16:57:46 2017| scheduled save for sector (-281:-339), 0x7fa6a85c5d80, entities: 882
+Fri Feb 17 16:57:46 2017| saving sector (-281:-339)
+Fri Feb 17 16:57:46 2017| 

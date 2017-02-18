@@ -1,0 +1,45 @@
+Fri Feb 17 15:58:56 2017| Enabled Traces: 
+Fri Feb 17 15:58:56 2017| Avorion server Beta 0.10.3 r7509 running on Ubuntu 16.04.2 LTS starting up in "/home/somethingiffy/avoriontest/avdata/avorion_galaxy"
+Fri Feb 17 15:58:56 2017| CPU: Intel(R) Xeon(R) CPU E31270 @ 3.40GHz 8 Cores
+Fri Feb 17 15:58:56 2017| name: Drow Pizza Test
+Fri Feb 17 15:58:56 2017| seed: K874gdevB2
+Fri Feb 17 15:58:56 2017| port: 28000
+Fri Feb 17 15:58:56 2017| max online players: 22
+Fri Feb 17 15:58:56 2017| save interval: 600
+Fri Feb 17 15:58:56 2017| broadcast interval: 5
+Fri Feb 17 15:58:56 2017| max loaded sector time: 300
+Fri Feb 17 15:58:56 2017| weak update: yes
+Fri Feb 17 15:58:56 2017| worker threads: 1
+Fri Feb 17 15:58:56 2017| generator threads: 2
+Fri Feb 17 15:58:56 2017| difficulty: Insane
+Fri Feb 17 15:58:56 2017| infiniteResources: no
+Fri Feb 17 15:58:56 2017| collision: 0.1
+Fri Feb 17 15:58:56 2017| access list: Blacklist
+Fri Feb 17 15:58:56 2017| public: yes
+Fri Feb 17 15:58:56 2017| authentication: yes
+Fri Feb 17 15:58:56 2017| listed: no
+Fri Feb 17 15:58:56 2017| steam networking: yes
+Fri Feb 17 15:58:56 2017| administrators: 'somethingiffy' 
+Fri Feb 17 15:58:56 2017| Starting up 1 worker threads...
+Fri Feb 17 15:58:56 2017| Loading jumping entities... 
+Fri Feb 17 15:58:56 2017| no file "/home/somethingiffy/avoriontest/avdata/avorion_galaxy/jumps.dat" found
+Fri Feb 17 15:58:56 2017| Galaxy initialized.
+Fri Feb 17 15:58:56 2017| Server UDP: Socket send to localhost:12345 failed. Error: resolve: Host not found (authoritative)
+Fri Feb 17 15:58:56 2017| Game Port: 27000
+Fri Feb 17 15:58:56 2017| Steam Port: 27021
+Fri Feb 17 15:58:56 2017| Steam Query Port: 27020
+Fri Feb 17 15:58:56 2017| Polling Port: 27003
+Fri Feb 17 15:58:56 2017| 
+Fri Feb 17 15:58:57 2017| Server connected to Steam successfully
+Fri Feb 17 15:58:57 2017| Server is VAC Secure!
+Fri Feb 17 15:58:57 2017| Game Server Steam ID: 90106951203569673
+Fri Feb 17 15:59:13 2017| OnP2PSessionRequest from 76561198367024529
+Fri Feb 17 15:59:17 2017| Steam authentication confirmed for 76561198367024529
+Fri Feb 17 15:59:17 2017| Authentication successful for 76561198367024529
+Fri Feb 17 15:59:17 2017| Connection to player established
+Fri Feb 17 15:59:20 2017| Incoming connection failure: Connection refused: Your version '0.10.4' does not match the server's version '0.10.3'.
+Fri Feb 17 15:59:20 2017| System error for unknown player: Connection refused: Your version '0.10.4' does not match the server's version '0.10.3'.
+Fri Feb 17 15:59:20 2017| Ending authentication session of 76561198367024529
+Fri Feb 17 15:59:22 2017| OnP2PSessionRequest from 76561198367024529
+Fri Feb 17 15:59:28 2017| received a message from client 76561198367024529 but it's not in the list.
+Fri Feb 17 15:59:28 2017| 
